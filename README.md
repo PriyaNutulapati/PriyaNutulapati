@@ -20,6 +20,5 @@ I am a Master's graduate in Information Technology, where I focused on subjects 
 ## 📫 Contact Me
 - **Email:** sriharipriya.nutulapati@gmail.com
 - **LinkedIn:** [PriyaNutulapati](https://www.linkedin.com/in/priya-nutulapati/)
-- **Portfolio:** [Your Portfolio Site](#)
 
 
